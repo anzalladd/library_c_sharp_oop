@@ -1,0 +1,6 @@
+C:\Users\AnzallaDD\source\repos\bidang_datar\bidang_datar\bin\Debug\bidang_datar.dll
+C:\Users\AnzallaDD\source\repos\bidang_datar\bidang_datar\bin\Debug\bidang_datar.pdb
+C:\Users\AnzallaDD\source\repos\bidang_datar\bidang_datar\obj\Debug\bidang_datar.csprojAssemblyReference.cache
+C:\Users\AnzallaDD\source\repos\bidang_datar\bidang_datar\obj\Debug\bidang_datar.csproj.CoreCompileInputs.cache
+C:\Users\AnzallaDD\source\repos\bidang_datar\bidang_datar\obj\Debug\bidang_datar.dll
+C:\Users\AnzallaDD\source\repos\bidang_datar\bidang_datar\obj\Debug\bidang_datar.pdb

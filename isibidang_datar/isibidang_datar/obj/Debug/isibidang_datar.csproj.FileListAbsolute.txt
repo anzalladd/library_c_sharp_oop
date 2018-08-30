@@ -1,0 +1,10 @@
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\bin\Debug\isibidang_datar.exe.config
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\bin\Debug\isibidang_datar.exe
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\bin\Debug\isibidang_datar.pdb
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\bin\Debug\bidang_datar.dll
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\bin\Debug\bidang_datar.pdb
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\obj\Debug\isibidang_datar.csprojAssemblyReference.cache
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\obj\Debug\isibidang_datar.csproj.CoreCompileInputs.cache
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\obj\Debug\isibidang_datar.csproj.CopyComplete
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\obj\Debug\isibidang_datar.exe
+C:\Users\AnzallaDD\source\repos\isibidang_datar\isibidang_datar\obj\Debug\isibidang_datar.pdb
